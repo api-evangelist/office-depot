@@ -18,6 +18,10 @@ url: https://raw.githubusercontent.com/api-evangelist/office-depot/refs/heads/ma
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/officedepot
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/office-depot
   - type: Website
     url: https://www.office-depot.com
 maintainers:
