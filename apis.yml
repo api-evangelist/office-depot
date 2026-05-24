@@ -24,6 +24,8 @@ common:
     url: https://www.linkedin.com/company/office-depot
   - type: Website
     url: https://www.office-depot.com
+  - type: LLMsTxt
+    url: https://office-depot.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
