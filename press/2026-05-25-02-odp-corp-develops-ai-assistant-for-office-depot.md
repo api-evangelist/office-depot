@@ -1,7 +1,9 @@
 ---
 title: ODP Corp. develops AI assistant for Office Depot, ...
 url: https://www.retaildive.com/news/odp-corp-ai-assistant-office-depot-office-max/725854/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Office Depot" press release artificial intelligence'
 position: 2
 source: serpapi-google

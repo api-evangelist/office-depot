@@ -1,7 +1,9 @@
 ---
 title: The ODP Corporation Enhances Customer Experience with ...
 url: https://investor.officedepot.com/news-releases/news-release-details/odp-corporation-enhances-customer-experience-gen-ai-data/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Office Depot" press release artificial intelligence'
 position: 1
 source: serpapi-google
